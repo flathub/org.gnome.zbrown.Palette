@@ -22,8 +22,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/World/palette",
-                    "tag": "0.9.5",
-                    "commit": "720d675ba38aaca8b55bbc5b1674675e5afadc0a"
+                    "tag": "0.9.6",
+                    "commit": "8f9474b5653b8c6c82f5cff2d16ffdde7b34bacc"
                 }
             ]
         }
